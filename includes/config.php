@@ -16,7 +16,7 @@ define('DEBUG', false);
  */
 define('PROOT', '');
 
-define('HLS_API_SECRET_KEY', 'freakplayer.ml');
+define('HLS_API_SECRET_KEY', 'freakplayer-ml');
 
 $allowed_domains = ['localhost'];
 
